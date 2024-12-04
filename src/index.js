@@ -27,7 +27,8 @@ class App extends React.Component {
         <BaseStyles style={
                               {
                                 backgroundColor: '#0d1117',
-                                height: '100%'
+                                height: '100%',
+                                overflow: 'auto',
                               }
                           }
         >
